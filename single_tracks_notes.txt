@@ -1,0 +1,5 @@
+All values which aren't reached because of the age of the star are filled in as zeros.
+
+The COSMIC standard wind prescription is to follow Vink+2001, which was calibrated to zsun = 0.019. This means that we fix zsun to 0.019 *in the winds only*. The solar metallicity for the track is assumed to be zsun=0.02.
+
+Units are in solar masses, solar radii, and Myr.
